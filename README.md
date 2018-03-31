@@ -7,7 +7,7 @@ Original code: Please refer to the folders above for the "unimplemented" code. D
 Project Description: The project is divided into four parts. Each part is described below:
 
 
-Part 1: Implement a paged file system and operations of records (in the API data format)
+[Part 1: Implement a paged file system and operations of records (in the API data format)]
 
 Involved classes in this part: PagedFileManager, FileHandle, RecordBasedFileManager
 
@@ -20,7 +20,7 @@ Please refer to the following link for more details:
 https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1-description
 
 
-Part 2: Implement operations of tables and tuples
+[Part 2: Implement operations of tables and tuples]
 
 Involved classes in this part: RelationManager, RM_ScanIterator 
 
@@ -33,7 +33,7 @@ Please refer to the following link for more details:
 https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project2-description
 
 
-Part 3: Implement operations of B+ tree indexes
+[Part 3: Implement operations of B+ tree indexes]
 
 Involved classes in this part: IndexManager, IX_ScanIterator, IXFileHandle  
 
@@ -46,7 +46,7 @@ Please refer to the following link for more details:
 https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project3
 
 
-Part 4: Implement relational operators
+[Part 4: Implement relational operators]
 
 Involved classes in this part: RM_IndexScanIterator, Iterator, Filter, Project, BNLJoin, INLJoin, Aggregate 
 
