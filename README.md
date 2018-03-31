@@ -2,7 +2,7 @@ Project Name: Database Management System (DBMS)
 
 Original code: Please refer to the folders above for the "unimplemented" code. Due to the agreement with the Professor, the implemented code is not public and may be provided upon request. (Please see the bottom of the file for more details.)
 
-Project Description: The project is divided into four parts. Each part is described in README.pdf
+Project Description: The project is divided into four parts. Each part is described in "Project Description.pdf".
 
 Supplemental Information:
 
