@@ -2,13 +2,13 @@ Project Name: Database Management System (DBMS)
 
 Original code: Please refer to the folders above for the "unimplemented" code. Due to the agreement with the Professor, the implemented code is not public and may be provided upon request. (Please see the bottom of the file for more details.)
 
-Project Description: The project is divided into four parts. Each part is described in "Project Description.pdf".
+Project Description: The project requires us to design and implement a database system which is able to manage records in the API data format. The functions of the DBMS include creating tables and indexes and answering SQL queries. The project is divided into four parts. Each part is described in "Project Description.pdf".
 
 Supplemental Information:
 
-- The project was developed in the "test-driven" method, that is, each part had to pass through a bunch of tests designed by the TA to be considered successful.
+- The project provided signatures of the functions. Our task was to design our DBMS and implement the functions.
 
-- Although the project defined the functions we needed to implement, the design of our DBMS was determined by ourselves.
+- The project was developed in the "test-driven" method, that is, each part had to pass through a bunch of tests designed by the TA to be considered successful.
 
 - The project was co-worked with my teammate, Chun-Kai (Kyle) Chan. "It takes teamwork to make dream work." Without his help the huge project would not have been completed as scheduled. Below is his LinkedIn page:
 https://www.linkedin.com/in/chunkai-chan/
