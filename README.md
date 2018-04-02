@@ -23,5 +23,4 @@ If you have a valid reason to view the implemented code (e.g., you are a recruit
 Thank you!
 
 Please refer to the following link for more details:
-
 https://grape.ics.uci.edu/wiki/public/wiki/cs222p-2017-fall-project1-create-project
